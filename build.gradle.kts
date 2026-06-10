@@ -14,8 +14,8 @@ repositories {
 dependencies {
 	testImplementation(kotlin("test"))
 	compileOnly("io.papermc.paper:paper-api:1.21.4-R0.1-SNAPSHOT")
-	compileOnly(files("libs\\arc-core-1.0.0-Beta.jar"))
-	ksp(files("libs\\arc-ksp-1.0.0-Beta.jar"))
+	compileOnly(files("libs/arc-core-1.0.0.jar"))
+	ksp(files("libs/arc-ksp-1.0.0.jar"))
 }
 
 kotlin {
