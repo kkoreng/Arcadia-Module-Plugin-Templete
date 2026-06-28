@@ -1,8 +1,8 @@
 package kr.raaaaming.testmodule
 
-import cc.arccore.api.module.BaseModule
-import cc.arccore.api.module.ModuleSpec
-import cc.arccore.runtime.context.RuntimeModuleContext
+import kr.acda.arccore.api.module.BaseModule
+import kr.acda.arccore.api.module.ModuleSpec
+import kr.acda.arccore.runtime.context.RuntimeModuleContext
 
 /**
  * 모듈 진입점. `@ModuleSpec` 로부터 `META-INF/arc-module.json` 이 자동 생성된다.

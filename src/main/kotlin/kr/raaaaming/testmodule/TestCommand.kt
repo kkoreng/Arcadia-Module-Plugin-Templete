@@ -1,9 +1,9 @@
 package kr.raaaaming.testmodule
 
-import cc.arccore.api.command.ARCCommand
-import cc.arccore.api.command.CommandContext
-import cc.arccore.api.command.CommandResult
-import cc.arccore.api.command.CommandSpec
+import kr.acda.arccore.api.command.ARCCommand
+import kr.acda.arccore.api.command.CommandContext
+import kr.acda.arccore.api.command.CommandResult
+import kr.acda.arccore.api.command.CommandSpec
 
 /**
  * `@CommandSpec` 이 붙은 커맨드. KSP 가 메타데이터를 생성하고 자동 등록한다.

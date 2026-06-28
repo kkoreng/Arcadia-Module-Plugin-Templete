@@ -1,6 +1,6 @@
 package kr.raaaaming.testmodule
 
-import cc.arccore.api.annotation.ARCListener
+import kr.acda.arccore.api.annotation.ARCListener
 import org.bukkit.event.EventHandler
 import org.bukkit.event.Listener
 import org.bukkit.event.player.PlayerJoinEvent
